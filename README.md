@@ -47,5 +47,5 @@ node index.js
 ```
 
 ## Output
-[Output-1](https://res.cloudinary.com/shaad82663/image/upload/v1636520802/Avtaar-Internship-Assisnments/OP-1_ewrpit.png)
-[Output-2](https://res.cloudinary.com/shaad82663/image/upload/v1636520803/Avtaar-Internship-Assisnments/OP-2_wjuyp6.png)
+[Output-1](https://res.cloudinary.com/shaad82663/image/upload/v1636696214/Avtaar-Internship-Assisnments/OP1_jglvtb.png)
+[Output-2](https://res.cloudinary.com/shaad82663/image/upload/v1636696214/Avtaar-Internship-Assisnments/OP2_ro2vfm.png)
