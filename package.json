@@ -1,0 +1,16 @@
+{
+  "name": "--",
+  "version": "1.0.0",
+  "description": "Avtaar Assignment -1, tags : Programming, Github",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohd Shadab",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1"
+  }
+}
